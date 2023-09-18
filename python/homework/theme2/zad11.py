@@ -1,0 +1,5 @@
+a = (input())
+b = int(a[0:1])
+c = int(a[1:2])
+e = int(a[2:3])
+print(b + c + e)
